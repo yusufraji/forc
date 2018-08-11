@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>https://yusufraji.github.io/forc/faq/</loc>
-  </url>
-  
-  <url>
     <loc>https://yusufraji.github.io/forc/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -83,13 +79,17 @@
   </url>
   
   <url>
-    <loc>https://yusufraji.github.io/forc/tags/programming/</loc>
+    <loc>https://yusufraji.github.io/forc/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusufraji.github.io/forc/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yusufraji.github.io/forc/categories/programming/</loc>
+    <loc>https://yusufraji.github.io/forc/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>

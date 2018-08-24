@@ -24,8 +24,8 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "news"
-    url  = "/news/"
+    name = "blog"
+    url  = "/blog/"
     weight = 2
 
 [[menu.main]]
@@ -66,7 +66,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/news/"
+    viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
@@ -114,7 +114,7 @@ paginate = 10
     longitude = "101.641122"
 
 [Permalinks]
-    news = "/news/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 #[params.topbar]
@@ -143,7 +143,7 @@ paginate = 10
     # at 'exampleSite/data/members'.
     # For more informtion take a look at the README.
     title = "members"
-    #subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    #subtitle = "We have worked with many useful_links and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our useful_links said about us."
 
 [params.testimonials]
     enable = true
@@ -151,7 +151,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "We have worked with many useful_links and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our useful_links said about us."
 
 [params.see_more]
     enable = true
@@ -162,15 +162,15 @@ paginate = 10
     link_text = "Check other homepages"
 
 
-[params.clients]
+[params.useful_links]
     enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
+    # All useful_links are defined in their own files. You can find example items
+    # at 'exampleSite/data/useful_links'.
     # For more informtion take a look at the README.
     title = "Useful Links"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our news"
+    title = "From our blog"
     subtitle = ""

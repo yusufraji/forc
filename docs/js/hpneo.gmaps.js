@@ -159,7 +159,7 @@ var GMaps = (function(global) {
         i,
         events_that_hide_context_menu = ['bounds_changed', 'center_changed', 'click', 'dblclick', 'drag', 'dragend', 'dragstart', 'idle', 'maptypeid_changed', 'projection_changed', 'resize', 'tilesloaded', 'zoom_changed'],
         events_that_doesnt_hide_context_menu = ['mousemove', 'mouseout', 'mouseover'],
-        options_to_be_deleted = ['el', 'lat', 'lng', 'mapType', 'width', 'height', 'markerClusterer', 'enableNewStyle'],
+        options_to_be_deleted = ['el', 'lat', 'lng', 'mapType', 'width', 'height', 'markerClusterer', 'enableblogtyle'],
         container_id = options.el || options.div,
         markerClustererFunction = options.markerClusterer,
         mapType = google.maps.MapTypeId[options.mapType.toUpperCase()],
@@ -224,7 +224,7 @@ var GMaps = (function(global) {
     this.el.style.width = options.width || this.el.scrollWidth || this.el.offsetWidth;
     this.el.style.height = options.height || this.el.scrollHeight || this.el.offsetHeight;
 
-    google.maps.visualRefresh = options.enableNewStyle;
+    google.maps.visualRefresh = options.enableblogtyle;
 
     for (i = 0; i < options_to_be_deleted.length; i++) {
       delete options[options_to_be_deleted[i]];

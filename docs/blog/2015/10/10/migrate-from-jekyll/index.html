@@ -58,7 +58,7 @@
   
   <meta property="og:title" content="Migrate from Jekyll" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/forc/blog/2015/10/10/migrate-from-jekyll//" />
+  <meta property="og:url" content="/forc/news/2015/10/10/migrate-from-jekyll//" />
   <meta property="og:image" content="img/logo.png" />
 
 </head>
@@ -101,7 +101,7 @@
                   
                   <li class="dropdown">
                     
-                    <a href="/forc/blog/">blog</a>
+                    <a href="/forc/news/">news</a>
                     
                   </li>
                   
@@ -166,7 +166,7 @@
 
                     
 
-                    <div class="col-md-9" id="blog-post">
+                    <div class="col-md-9" id="news-post">
 
                         <p class="text-muted text-uppercase mb-small text-right">October 10, 2015</p>
 
@@ -199,7 +199,7 @@ With Jekyll, something that looked like</p>
 
 <h2 id="set-your-configuration-publish-folder-to-site">Set your configuration publish folder to <code>_site</code></h2>
 
-<p>The default is for Jekyll to publish to <code>_site</code> and for Hugo to publish to <code>public</code>. If, like me, you have <a href="http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html"><code>_site</code> mapped to a git submodule on the <code>gh-pages</code> branch</a>, you&rsquo;ll want to do one of two alternatives:</p>
+<p>The default is for Jekyll to publish to <code>_site</code> and for Hugo to publish to <code>public</code>. If, like me, you have <a href="http://news.blindgaenger.net/generate_github_pages_in_a_submodule.html"><code>_site</code> mapped to a git submodule on the <code>gh-pages</code> branch</a>, you&rsquo;ll want to do one of two alternatives:</p>
 
 <ol>
 <li><p>Change your submodule to point to map <code>gh-pages</code> to public instead of <code>_site</code> (recommended).</p>
@@ -221,7 +221,7 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 
 <h2 id="convert-jekyll-templates-to-hugo-templates">Convert Jekyll templates to Hugo templates</h2>
 
-<p>That&rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to <a href="http://jekyllrb.com/docs/templates/">Jekyll&rsquo;s template documentation</a> if you need to refresh your memory on how you built your blog and <a href="/layout/templates/">Hugo&rsquo;s template</a> to learn Hugo&rsquo;s way.</p>
+<p>That&rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to <a href="http://jekyllrb.com/docs/templates/">Jekyll&rsquo;s template documentation</a> if you need to refresh your memory on how you built your news and <a href="/layout/templates/">Hugo&rsquo;s template</a> to learn Hugo&rsquo;s way.</p>
 
 <p>As a single reference data point, converting my templates for <a href="http://heyitsalex.net/">heyitsalex.net</a> took me no more than a few hours.</p>
 
@@ -507,44 +507,44 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
              
             <h4>Recent posts</h4>
 
-            <div class="blog-entries">
+            <div class="news-entries">
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="https://yusufraji.github.io/forc/blog/2015/10/10/migrate-from-jekyll/">
+                        <a href="https://yusufraji.github.io/forc/news/2015/10/10/migrate-from-jekyll/">
                           
                             <img src="https://yusufraji.github.io/forc/img/banners/banner-5.jpg" class="img-responsive" alt="Migrate from Jekyll">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="https://yusufraji.github.io/forc/blog/2015/10/10/migrate-from-jekyll/">Migrate from Jekyll</a></h5>
+                        <h5><a href="https://yusufraji.github.io/forc/news/2015/10/10/migrate-from-jekyll/">Migrate from Jekyll</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="https://yusufraji.github.io/forc/blog/2015/10/02/linked-post/">
+                        <a href="https://yusufraji.github.io/forc/news/2015/10/02/linked-post/">
                           
                             <img src="https://yusufraji.github.io/forc/img/banners/banner-4.jpg" class="img-responsive" alt="Linked post">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="https://yusufraji.github.io/forc/blog/2015/10/02/linked-post/">Linked post</a></h5>
+                        <h5><a href="https://yusufraji.github.io/forc/news/2015/10/02/linked-post/">Linked post</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="https://yusufraji.github.io/forc/blog/2015/09/17/go-is-for-lovers/">
+                        <a href="https://yusufraji.github.io/forc/news/2015/09/17/go-is-for-lovers/">
                           
                             <img src="https://yusufraji.github.io/forc/img/banners/banner-2.jpg" class="img-responsive" alt="Go is for lovers">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="https://yusufraji.github.io/forc/blog/2015/09/17/go-is-for-lovers/">Go is for lovers</a></h5>
+                        <h5><a href="https://yusufraji.github.io/forc/news/2015/09/17/go-is-for-lovers/">Go is for lovers</a></h5>
                     </div>
                 </div>
                 

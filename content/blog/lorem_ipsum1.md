@@ -1,17 +1,15 @@
 +++
-title = "Linked post"
+title = "Lorem Ipsum"
 date = "2015-10-02T21:49:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
+tags = ["lorem", "ipsum", "lorem ipsum"]
 categories = ["programming"]
-banner = "img/banners/banner-4.jpg"
+banner = "img/banners/banner-1.jpg"
 author = "John Doe"
-draft = true
 +++
 
-I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+# "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 
-    menu = "main"
-
+## "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
 

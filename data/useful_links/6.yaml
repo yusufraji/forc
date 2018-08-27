@@ -1,3 +1,4 @@
 name: "customer-6"
 image: "img/useful_links/customer-6.png"
 url: "http://www.customer6.com"
+draft: true

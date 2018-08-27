@@ -6,20 +6,55 @@
     <description>Recent content in Ipsum on FORC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://yusufraji.github.io/forc/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://yusufraji.github.io/forc/blog/2015/10/10/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Lorem Ipsum</title>
+      <link>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum1/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://yusufraji.github.io/forc/blog/2015/10/10/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum1/</guid>
+      <description>&amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum2/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum2/</guid>
+      <description>&amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consectetur tempor felis id molestie. Nullam erat massa, blandit ac eleifend nec, facilisis vel odio. Praesent sit amet est nec est tristique pretium. Cras at pellentesque nibh.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum3/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum3/</guid>
+      <description>&amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consectetur tempor felis id molestie. Nullam erat massa, blandit ac eleifend nec, facilisis vel odio. Praesent sit amet est nec est tristique pretium. Cras at pellentesque nibh.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum4/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum4/</guid>
+      <description>&amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consectetur tempor felis id molestie. Nullam erat massa, blandit ac eleifend nec, facilisis vel odio. Praesent sit amet est nec est tristique pretium. Cras at pellentesque nibh.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum5/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://yusufraji.github.io/forc/blog/2015/10/02/lorem_ipsum5/</guid>
+      <description>&amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consectetur tempor felis id molestie. Nullam erat massa, blandit ac eleifend nec, facilisis vel odio. Praesent sit amet est nec est tristique pretium. Cras at pellentesque nibh.</description>
     </item>
     
   </channel>

@@ -61,6 +61,10 @@ keywords = ["Publications","Journal","Research Papers","Literature"]
 
 * Abdul Sani, S. F., Grime, G. W., Palitsin, V., Mahdiraji, G. A., Abdul Rashid, H. A., Maah, M. J., & Bradley, D. A. (2015). [Micro‐PIXE analysis of doped SiO2 fibres intended as TL dosimeters for radiation](https://onlinelibrary.wiley.com/doi/abs/10.1002/xrs.2575). X‐Ray Spectrometry, 44(2), 33-40.
 
+* Alawiah, A., Bauk, S., Abdul-Rashid, H. A., Gieszczyk, W., Hashim, S., Mahdiraji, G. A., ... & Bradley, D. A. (2015). [Potential application of pure silica optical flat fibers for radiation therapy dosimetry](https://www.sciencedirect.com/science/article/pii/S0969806X14002540). Radiation Physics and Chemistry, 106, 73-76.
+
+
+
 ## LOCAL JOURNALS
 
 

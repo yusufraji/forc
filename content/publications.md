@@ -85,7 +85,13 @@ keywords = ["Publications","Journal","Research Papers","Literature"]
 
 * Sim, W. S., Tan, S. C., & Yusoff, Z. (2017). [Design and Analysis of Stimulated Raman Scattering-Aware Algorithm in RWA](https://www.degruyter.com/view/j/joc.2017.38.issue-2/joc-2016-0023/joc-2016-0023.xml?format=INT&intcmp=trendmd). Journal of Optical Communications, 38(2), 207-211.
 
-*
+* Raji, Y. M., Lin, H. S., Ibrahim, S. A., Mokhtar, M. R., & Yusoff, Z. (2016). [Intensity-modulated abrupt tapered fiber Mach-Zehnder interferometer for the simultaneous sensing of temperature and curvature](https://www.sciencedirect.com/science/article/pii/S0030399216300111). Optics & Laser Technology, 86, 8-13.
+
+* Lin, H. S., Raji, Y. M., Lim, J. H., Lim, S. K., Mokhtar, M. R., & Yusoff, Z. (2016). [Packaged in-line Mach–Zehnder interferometer for highly sensitive curvature and flexural strain sensing.](https://www.sciencedirect.com/science/article/pii/S0924424716304277) Sensors and Actuators A: Physical, 250, 237-242.
+
+* Jizat, N. M., Yusoff, Z., Rahim, S. K. A., Sabran, M. I., & Islam, M. T. (2015, November). [Exploitation of the electromagnetic band gap (EBG) in 3-dB multi-layer branch-line coupler.](https://ieeexplore.ieee.org/abstract/document/7725445/) In Communications (MICC), 2015 IEEE 12th Malaysia International Conference on (pp. 264-269). IEEE.
+
+* Toor, M. A., Hambali, N. A., Mansoor, A., Ajiya, M., & Yusoff, Z. (2015). [Double Brillouin frequency shifted L-band multi-wavelength Brillouin Raman fiber laser utilizing dual laser cavity.](http://iopscience.iop.org/article/10.1088/2040-8978/17/2/025502/meta) Journal of Optics, 17(2), 025502.
 
 
 

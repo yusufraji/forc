@@ -61,6 +61,44 @@ keywords = ["Publications","Journal","Research Papers","Literature"]
 
 * Abdul Sani, S. F., Grime, G. W., Palitsin, V., Mahdiraji, G. A., Abdul Rashid, H. A., Maah, M. J., & Bradley, D. A. (2015). [Micro‐PIXE analysis of doped SiO2 fibres intended as TL dosimeters for radiation](https://onlinelibrary.wiley.com/doi/abs/10.1002/xrs.2575). X‐Ray Spectrometry, 44(2), 33-40.
 
+* Alawiah, A., Bauk, S., Abdul-Rashid, H. A., Gieszczyk, W., Hashim, S., Mahdiraji, G. A., ... & Bradley, D. A. (2015). [Potential application of pure silica optical flat fibers for radiation therapy dosimetry](https://www.sciencedirect.com/science/article/pii/S0969806X14002540). Radiation Physics and Chemistry, 106, 73-76.
+
+* Siti Shafiqah, A. S., Amin, Y. M., Md Nor, R., Tamchek, N., Anuar, K., Abdul Rashid, H. A., & Bradley, D. A. (2015). [Properties of ge-doped silica preform by raman spectroscopy](http://epubs.surrey.ac.uk/840202/). ARPN Journal of Engineering and Applied Sciences, 10(15), 6214-6218.
+
+* Emami, S. D., Soltanian, M. R. K., Attaran, A., Abdul-Rashid, H. A., Penny, R., Moghavvemi, M., ... & Mohammed, W. S. (2015). [Application of Fano resonance effects in optical antennas formed by regular clusters of nanospheres](https://link.springer.com/article/10.1007/s00339-014-8832-2). Applied Physics A, 118(1), 139-150.
+
+* Hamarsheh, M. M., Falah, A. A., & Mokhtar, M. R. (2015). [Tunable fiber Bragg grating phase shift by simple pressure packaging](https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-54/issue-1/016105/Tunable-fiber-Bragg-grating-phase-shift-by-simple-pressure-packaging/10.1117/1.OE.54.1.016105.full?SSO=1). Optical Engineering, 54(1), 016105.
+
+* Alsowaidi, N., Eltaif, T., & Mokhtar, M. R. (2016). [Performance analysis of SAC optical PPM-CDMA system-based interference rejection technique](https://www.degruyter.com/view/j/joc.2016.37.issue-1/joc-2015-0012/joc-2015-0012.xml). Journal of Optical Communications, 37(1), 87-92.
+
+* Eltaif, T., Bakarman, H. A., Alsowaidi, N., Mokhtar, M. R., & Harbawi, M. (2015). [Reduction of Multiple User Interference for Optical CDMA Systems Using Successive Interference Cancellation Scheme](https://pdfs.semanticscholar.org/d175/06d79375ddd03025a3979327b188a6f96dee.pdf). World Academy of Science, Engineering and Technology International Journal of Electrical, Computer, Energetic, Electronic and Communication Engineering, 9(7), 697-673.
+
+* Alsowaidi, N., Eltaif, T., Mokhtar, M. R., & Alaghbari, K. [Performance Analysis of CDMA in Optical Transmission Using PPM Signaling](https://pdfs.semanticscholar.org/5f3c/8317c7af82853d44467be3b3db7d105a4cd0.pdf).
+
+* Alsowaidi, N., Eltaif, T., & Mokhtar, M. R. (2016). [Successive Interference Cancellation for DS-Optical PPM-CDMA Systems](https://www.degruyter.com/view/j/joc.2016.37.issue-2/joc-2015-0057/joc-2015-0057.xml). Journal of Optical Communications, 37(2), 221-225.
+
+* Falah, A. A. S., Mokhtar, M. R., Yusoff, Z., & Ibsen, M. (2016). [Reconfigurable phase-shifted fiber Bragg grating using localized micro-strain](https://ieeexplore.ieee.org/abstract/document/7384701/). IEEE Photonics Technology Letters, 28(9), 951-954.
+
+* Haque, M. R., Ali, S., Tan, S. C., Yusoff, Z., Kwang, L. C., Kaspin, I. R., & Ziri, S. R. (2017, September). [Motivation of DDoS Attack-Aware in Software Defined Networking Controller Placement](https://ieeexplore.ieee.org/abstract/document/8079751/). In Computer and Applications (ICCA), 2017 International Conference on (pp. 36-42). IEEE.
+
+* Lau, K. Y., Muhammad, F. D., Latif, A. A., Bakar, M. A., Yusoff, Z., & Mahdi, M. A. (2017). [Passively mode-locked soliton femtosecond pulses employing graphene saturable absorber](https://www.sciencedirect.com/science/article/pii/S0030399216309525). Optics & Laser Technology, 94, 221-227.
+
+* Sim, W. S., Tan, S. C., & Yusoff, Z. (2017). [Design and Analysis of Stimulated Raman Scattering-Aware Algorithm in RWA](https://www.degruyter.com/view/j/joc.2017.38.issue-2/joc-2016-0023/joc-2016-0023.xml?format=INT&intcmp=trendmd). Journal of Optical Communications, 38(2), 207-211.
+
+* Raji, Y. M., Lin, H. S., Ibrahim, S. A., Mokhtar, M. R., & Yusoff, Z. (2016). [Intensity-modulated abrupt tapered fiber Mach-Zehnder interferometer for the simultaneous sensing of temperature and curvature](https://www.sciencedirect.com/science/article/pii/S0030399216300111). Optics & Laser Technology, 86, 8-13.
+
+* Lin, H. S., Raji, Y. M., Lim, J. H., Lim, S. K., Mokhtar, M. R., & Yusoff, Z. (2016). [Packaged in-line Mach–Zehnder interferometer for highly sensitive curvature and flexural strain sensing.](https://www.sciencedirect.com/science/article/pii/S0924424716304277) Sensors and Actuators A: Physical, 250, 237-242.
+
+* Jizat, N. M., Yusoff, Z., Rahim, S. K. A., Sabran, M. I., & Islam, M. T. (2015, November). [Exploitation of the electromagnetic band gap (EBG) in 3-dB multi-layer branch-line coupler.](https://ieeexplore.ieee.org/abstract/document/7725445/) In Communications (MICC), 2015 IEEE 12th Malaysia International Conference on (pp. 264-269). IEEE.
+
+* Toor, M. A., Hambali, N. A., Mansoor, A., Ajiya, M., & Yusoff, Z. (2015). [Double Brillouin frequency shifted L-band multi-wavelength Brillouin Raman fiber laser utilizing dual laser cavity.](http://iopscience.iop.org/article/10.1088/2040-8978/17/2/025502/meta) Journal of Optics, 17(2), 025502.
+
+
+
+
+
+
+
 ## LOCAL JOURNALS
 
 

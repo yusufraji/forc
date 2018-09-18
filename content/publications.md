@@ -7,8 +7,14 @@ keywords = ["Publications","Journal","Research Papers","Literature"]
 
 ##  INTERNATIONAL JOURNALS
 
-* Siti Azlida Ibrahim, Mohamad Yusoff Alias, and Nurul Nadia Ahmad, "Performance of adaptive modulation assisted adaptive beamforming system", IEICE Electronics Express, 2009, pp.1013-1018,6(14).
+### 2018
+
+* Siti Azlida Ibrahim, Mohamad Yusoff Alias, and Nurul Nadia Ahmad, [Performance of adaptive modulation assisted adaptive beamforming system](https://www.jstage.jst.go.jp/article/elex/6/14/6_14_1013/_article/-char/ja/), IEICE Electronics Express, 2009, pp.1013-1018,6(14
+
 * Emami, S. D., Dashtabi, M. M., Lee, H. J., Arabanian, A. S., & Rashid, H. A. A. (2017). [1700 nm and 1800 nm band tunable thulium doped mode-locked fiber lasers](https://www.nature.com/articles/s41598-017-13200-x). Scientific reports, 7(1), 12747.
+
+
+### 2017
 
 * Ibrahim, S. A., Alias, M. Y. and Ahmad, N. N., "Performance of Adaptive Modulation Scheme for Adaptive Minimum Symbol Error Rate Beamforming Receiver", Wireless Personal Communications, September, 2012.
 * Emami, S. D., Jing, L. H., Rahman, M. M., Abdullah, F., Abdul-Rashid, H. A., Dashtabi, M. M., & Rahman, B. A. (2017). [Evolution of Surface Acoustic Waves in an Optical Microfiber](https://ieeexplore.ieee.org/abstract/document/8022858/). IEEE Journal of Quantum Electronics, 53(5), 1-8.

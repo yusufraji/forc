@@ -150,8 +150,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "funding"
-    subtitle = "Here are the lists of current research funds under FORC"
+    title = "research projects"
+    subtitle = "Here are the lists of current research projects under FORC"
 
 [params.see_more]
     enable = false
